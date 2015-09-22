@@ -2,10 +2,9 @@
 <html>
 <body>
 <?php
-
-echo "Hi Monica!";
-echo " Adding a bit more";
-
+echo "Hello world!";
+echo "Adding a bit more";
 ?>
 </body>
 </html>
+
